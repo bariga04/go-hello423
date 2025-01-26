@@ -1,0 +1,1 @@
+link to Go tutorial: (https://bariga04.github.io/comp423-course-notes/tutorials/go-setup/)[https://bariga04.github.io/comp423-course-notes/tutorials/go-setup/]
