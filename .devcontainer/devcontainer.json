@@ -1,0 +1,11 @@
+{
+    "name": "go-hello423",  
+    "image": "mcr.microsoft.com/devcontainers/go:latest",  
+    "customizations": {  
+      "vscode": {  
+        "settings": {},  
+        "extensions": ["golang.go"]  
+      }  
+    },  
+    "postCreateCommand": "go mod tidy"  
+  }  
